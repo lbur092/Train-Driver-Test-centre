@@ -1,0 +1,69 @@
+The How2become Dots Concentration Testing tool – Operating Instructions
+
+The Dots Concentration Tool is a practise aid for individuals wishing (or about) to take the UK Train Driver psychometric assessments.
+Please see below detailed instruction on how to use the tool correctly.
+Controls
+On-screen cursor movement is controlled by three keys.  The main cursor keys  
+Cursor control during the test is quite simple, and it works as below
+
+•	LEFT - Steps the cursor one (and only one) space left, and is used to correct errors.
+•	RIGHT - Steps the cursor one space right, advancing the cursor to the next cell.
+•	UP - Will select or deselect a cell.  A selected cell is shown by a highlighted red box.
+
+The UP key acts as a toggle.  If the cell is not selected pressing UP will select it.  Conversely, by pressing UP on an already selected cell you can deselect it.
+
+When the cursor reaches the last cell in a row, stepping right automatically, repositions the cursor to the start of the next row.  Should this happen on the very last row, the tool automatically advances to the next sheet and repositions the cursor to the first cell.  If this happens when there are no more sheets left in the test, the tool announces the test is complete and allows you to view your statistics.
+
+Viewing your stats
+
+Once you have completed the test, on the lower part of the menu you will be your Overall statistics for your tests.
+
+To view your results, please click the ‘Sheet Stats’ button. 
+
+Once at this page you have the following options:-
+
+View Sheet Stats: This function will allow you to view the various sheets in the test just undertaken, providing your test included more than 1 sheet. 
+
+To select the desired sheet simply click the up or down arrow, and press view when desired sheet is highlighted.
+
+View graph:  Displays a row-time over sheet duration graph for the sheet selected using the spin-box.  Note:  A sheet must have at least two completed rows before the graph button becomes available.
+
+Row Error Count: This button when clicked will simply show a figure for incorrect answers per row.
+
+Targets Omitted: Clicking this button will highlight any missed group of 4 dots for the selected sheet.
+
+Marked Incorrect: Clicking this button will highlight any incorrect cells selected.
+
+
+Speed: This section will simply show you various data related to the speed of the test undertaken.
+The fastest and slowest row buttons will simply highlight the fastest and slowest rows.
+
+When you have finished viewing your stats, simply close the window by pressing the red x in the Right hand corner of the stats screen.
+
+
+Adjusting your test options
+
+The How2become Dots Concentration Testing tool includes some adjustable function to assist the user. Please see list of functions available.
+
+Number of sheets: You can adjust the number of sheets you wish to include in your test up to a maximum of 20. To adjust this simply, click the Up or down button on the sheet selection box, located at the top of the menu under the heading ‘Sheets’
+
+Sheet Colour: This control allows you to select from one of three different colour schemes for the test sheets.  Simply use the radio buttons beneath each coloured box to make your selection.
+
+Density: This slider control adjusts the propagation density of the targets.  The control adjusts the random potential for densely or sparsely populating the sheets with targets.  Sliding the control left increases the probability of sparsely populated sheets, and right increases the probability of densely populated sheets.
+
+The effect on the generated sheets may not be immediately obvious.  This is because the control adjusts the potential for and not the actual amount of dense or sparse targets.  The default setting produces an even balance between generating densely or sparsely populated sheets.
+
+Time each sheet: This box control works together with the Seconds control to adjust the total time allowed per sheet, providing the Time Each Sheet option is checked. For the Group-Bourdon tests the default of 2 minutes per sheet is equal to the real-life paper-based test. To adjust the time per sheet simply click the up and down arrows, until desired time is selected.
+
+Warning: If both the Warning and Time Each Sheet options are checked, the background colour of the on-screen Time Remaining clock on the lower information panel will change to red when the sheet timer enters the final 15 seconds.  
+
+Cursor Colour Change: This check-box option controls a visual practise aid, When this option is on, and the on-screen cursor is over a correct target, then the cursor will change from the usual red box, to a ??? box.  Thus signalling that you should mark that dot-group or shape! Important, this aid should only be used during early practice as no aids will be available in the real test.
+Real Time Error Count: This check-box option controls a visual practise aid. When this option is on the program will keep a running total of any errors you make during the test.  Errors are targets you miss, or targets you mark incorrectly.  The running total is then displayed in real-time on the lower information panel. Important, this aid should only be used during early practice as no aids will be available in the real test.
+
+Start Button: Click this button when you are ready to start your test.
+
+Stop Button: Click this button if you wish to stop your test.
+
+
+Good luck with your tests!
+The How2become Team

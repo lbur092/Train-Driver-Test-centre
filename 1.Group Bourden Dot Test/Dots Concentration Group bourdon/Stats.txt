@@ -1,0 +1,417 @@
+Dots Concentration Test (DCT) for Train Drivers Result Statistics
+
+Saved on15-8-2024 at 22:35:28.9554945
+
+-------------------------------
+
+
+
+
+
+ Overall Statistics:
+
+...............
+
+
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 2
+
+      Marked Incorrect ------------ 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 1496
+
+      Mean Cell Time -------------- 0.034
+
+      Median Cell Time ------------ 
+
+
+
+      Completed Rows  ---------------- 57
+
+      Mean Row Time -------------- 0.851
+
+      Median Row Time ------------ 
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.369
+
+
+
+--------------------------------------------
+
+
+
+
+
+  Individual Sheet Statistics:
+
+--------------------------------------------
+
+  Sheet : 1
+
+-------------
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 0
+
+      Marked Incorrect ------------ 0
+
+
+
+   Row:1 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:2 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:3 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:4 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:5 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:6 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:7 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:8 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:9 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:10 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:11 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:12 Target Omitted : 0 Marked Incorrect : 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 286
+
+      Mean Cell Time -------------- 0.007
+
+      Median Cell Time ------------ 0.010
+
+
+
+      Completed Rows  ---------------- 11
+
+      Mean Row Time -------------- 0.177
+
+      Median Row Time ------------ 0.176
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.063
+
+
+
+--------------------------------------------
+
+  Sheet : 2
+
+-------------
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 1
+
+      Marked Incorrect ------------ 0
+
+
+
+   Row:1 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:2 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:3 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:4 Target Omitted : 1 Marked Incorrect : 0
+
+   Row:5 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:6 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:7 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:8 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:9 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:10 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:11 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:12 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:13 Target Omitted : 0 Marked Incorrect : 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 306
+
+      Mean Cell Time -------------- 0.007
+
+      Median Cell Time ------------ 0.006
+
+
+
+      Completed Rows  ---------------- 12
+
+      Mean Row Time -------------- 0.167
+
+      Median Row Time ------------ 0.152
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.078
+
+
+
+--------------------------------------------
+
+  Sheet : 3
+
+-------------
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 1
+
+      Marked Incorrect ------------ 0
+
+
+
+   Row:1 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:2 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:3 Target Omitted : 1 Marked Incorrect : 0
+
+   Row:4 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:5 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:6 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:7 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:8 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:9 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:10 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:11 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:12 Target Omitted : 0 Marked Incorrect : 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 297
+
+      Mean Cell Time -------------- 0.007
+
+      Median Cell Time ------------ 0.006
+
+
+
+      Completed Rows  ---------------- 11
+
+      Mean Row Time -------------- 0.173
+
+      Median Row Time ------------ 0.172
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.065
+
+
+
+--------------------------------------------
+
+  Sheet : 4
+
+-------------
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 0
+
+      Marked Incorrect ------------ 0
+
+
+
+   Row:1 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:2 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:3 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:4 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:5 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:6 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:7 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:8 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:9 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:10 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:11 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:12 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:13 Target Omitted : 0 Marked Incorrect : 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 312
+
+      Mean Cell Time -------------- 0.006
+
+      Median Cell Time ------------ 0.007
+
+
+
+      Completed Rows  ---------------- 12
+
+      Mean Row Time -------------- 0.164
+
+      Median Row Time ------------ 0.189
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.068
+
+
+
+--------------------------------------------
+
+  Sheet : 5
+
+-------------
+
+   Perception & Attention:
+
+
+
+      Targets Omitted  ------------ 0
+
+      Marked Incorrect ------------ 0
+
+
+
+   Row:1 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:2 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:3 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:4 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:5 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:6 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:7 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:8 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:9 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:10 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:11 Target Omitted : 0 Marked Incorrect : 0
+
+   Row:12 Target Omitted : 0 Marked Incorrect : 0
+
+
+
+   Speed:
+
+
+
+      Total Cells  ---------------- 295
+
+      Mean Cell Time -------------- 0.007
+
+      Median Cell Time ------------ 0.004
+
+
+
+      Completed Rows  ---------------- 11
+
+      Mean Row Time -------------- 0.170
+
+      Median Row Time ------------ 0.207
+
+
+
+   Vigilance:
+
+
+
+      Row Fluctuation  ---------------- 0.095
+
+
+
+--------------------------------------------
